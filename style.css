@@ -1,0 +1,150 @@
+*{
+    color: white;
+}
+#age,textarea{
+    color: black;
+}
+
+.navbar{
+    height: 60px;
+    background-color: black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 1525px;
+}
+
+
+
+
+h1{
+    width: 300px;
+    text-align: center;
+    margin:auto;
+    font-weight: bold;
+    font-style: normal;
+    color: gold;
+    padding-top: 100px;
+    font-size: 45px;
+}
+
+a{
+    margin-right: 120px;;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    
+    
+}
+input{
+    border: 2px solid black;
+    border-radius: 12px;
+}
+.container{
+    color: black;
+    border-radius: 6px;
+}
+
+body{
+    background-image: url(https://wallpaperaccess.com/full/1429896.jpg);
+}
+p{
+    width: 700px;
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+}
+.bnt-container{
+    text-align: center;
+    margin-top: 50px;
+}
+#button{
+    width: 300px;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 25px;
+    color: black;
+    margin: 600px;
+    margin-top: 100px;
+    margin-bottom:40px;
+}
+h2{
+    text-align: center;
+    font-size: 100px;
+}
+
+
+
+.para{
+    text-align: right;
+    margin-right: 50px;
+    color: black;
+    margin-top: 100px;
+}
+
+#form{
+    margin-top: 200px;
+    border: 2px solid white;
+    width: 400px;
+    text-align: center;
+    height: 450px;
+    border-radius: 20px;
+    margin-left: 550px;
+    text-transform: capitalize;
+    padding-top: 50px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/011/110/983/large_2x/bokeh-light-soft-blur-background-beauty-nature-free-photo.jpg);
+    background-size: cover;
+    
+
+
+}
+
+#games{
+    color: black;
+    border-radius: 8px;
+}
+option{
+    background-color: yellow;
+    color: black;
+}
+button{
+    color: black;
+    border-radius: 9px;
+}
+textarea{
+    border-radius: 8px;
+}
+.size{
+    font-size: 50px;
+}
+
+
+ .table{
+    margin: auto;
+    font-size: 30px;
+    border-radius: 12px;
+    border: 2px solid white;
+
+ }
+ .image{
+    padding-left: px;
+    margin-left: 70px;
+    border: 2px solid white;
+    border-radius: 12px;
+ }
+ #footer{
+    background-color: black;
+ }
+ .heading{
+    color: black;
+    font-size: 40px;
+    gap: 0;
+    margin-right: 500px;
+    font-style:oblique;
+ }
